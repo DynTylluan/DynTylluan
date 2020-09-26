@@ -5,15 +5,15 @@
 
 <img width="157" height="265" align="right" style="float: right; margin: 0 10px 0 0;" alt="Extract from xkcd 624: Branding." src="img/xkcd_624.png">
 
-Hello there, I'm Cass Python, also known by my online name of Owly - welcome to my git, hope you like it here! Why not take a look around at my repositories? I'm sure there will something that will catch your eye.
+Hello there, I'm Cass Python, also known by my online name of Owly - welcome to my git, hope you like it here! Why not take a look around at my repositories? I'm sure there will be something that will catch your eye.
 
-I have a strong interest in interest in digital preservation and because of this, a lot of my repositories that you will find on here are mirrors of other people and my own work.
+I have a strong interest in digital preservation and because of this, a lot of my repositories that you will find on here are mirrors of other people and my own work.
 
 I'm a big nerd when it comes to things relating to the world of ICT and outdated tech is my jam, same goes for things like websites from the 1990s.
 
-When I'm not drooling over terribly made websites, I like to also be a nerd for other rubbish from Red Dwarf, bands like Oingo Boingo and The Beatles, plus annoying my friends over on at Discord (add me: **Owly#6604**).
+When I'm not drooling over terribly made websites, I like to also be a nerd for other rubbish from <a href="">Red Dwarf</a>, bands like Oingo Boingo and The Beatles, plus annoying my friends over on at Discord (add me: **Owly#6604**).
 
-I am also currently learning <a href="https://en.wikipedia.org/wiki/Esperanto">Esperanto</a> as a second language, so that's something, I guess.
+I am also currently learning Esperanto as a second language, so that's something, I guess.
 
 <details>
   <summary><img src="img/floppy.png"> Stuff I've done</summary>
