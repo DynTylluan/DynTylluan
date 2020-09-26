@@ -1,9 +1,10 @@
 # Hello, I'm Cass 👋
 <hr>
-<center>[<a href="https://neozones.club/~owly/">NeoZones</a> ] [<a href="https://digipres.club/@OwlMan">Mastodon</a>] [<a href="mailto:owlman@protonmail.com">E-Mail</a>]</center>
+<center>[<a href="https://neozones.club/~owly/">NeoZones</a>] [<a href="https://digipres.club/@OwlMan">Mastodon</a>] [<a href="mailto:owlman@protonmail.com">E-Mail</a>]</center>
 <hr>
 
 <img width="157" height="265" align="right" style="float: right; margin: 0 10px 0 0;" alt="Extract from xkcd 624: Branding." src="img/xkcd_624.png">
+
 Hello there, I'm Cass Python, also known by my online name of Owly - welcome to my git, hope you like it here! Why not take a look around at my repositories? I'm sure there will something that will catch your eye.
 
 I have a strong interest in interest in digital preservation and because of this, a lot of my repositories that you will find on here are mirrors of other people and my own work.
@@ -15,7 +16,7 @@ When I'm not drooling over terribly made websites, I like to also be a nerd for 
 I am also currently learning <a href="https://en.wikipedia.org/wiki/Esperanto">Esperanto</a> as a second language, so that's something, I guess.
 
 <details>
-  <summary><img src="img/floppy.png"> Stuff I've done</summary>
+  <summary><img width="16" height="16" src="img/floppy.png"> Stuff I've done</summary>
 Here are some of the highlights of some of the thing that I have published on the Web, enjoy at your own risk...
 
 * <a href="https://github.com/DynTylluan/owlgames">/owlgames Archive</a>: A collection of vanilla Doom WADs.
@@ -25,7 +26,7 @@ Here are some of the highlights of some of the thing that I have published on th
 </details>
 
 <details>
-  <summary><img src="img/floppy2.png"> Repositories I Like</summary>
+  <summary><img width="16" height="16" src="img/floppy2.png"> Repositories I Like</summary>
 Thank God I have had nothing to do with anything here or else they would be terrible, but anyway, here are some repositories that I think are cool and so should you.
 
 * <a href="https://github.com/akaAgar/png2wad">akaAgar/png2wad</a>: A tool to create Doom maps from PNG files - the future is now!
@@ -39,7 +40,7 @@ More repositories that I have stared can be found <a href="https://github.com/Dy
 </details>
 
 <details>
-  <summary><img src="img/floppy3.png"> My GitHub Statistics</summary>
+  <summary><img width="16" height="16" src="img/floppy3.png"> My GitHub Statistics</summary>
 Showing off my nerd cred (if I had any)
   <table>
   <tr>
