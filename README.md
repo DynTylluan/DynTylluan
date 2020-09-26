@@ -16,7 +16,7 @@ When I'm not drooling over terribly made websites, I like to also be a nerd for 
 I am also currently learning <a href="https://en.wikipedia.org/wiki/Esperanto">Esperanto</a> as a second language, so that's something, I guess.
 
 <details>
-  <summary><img width="16" height="16" src="img/floppy.png"> Stuff I've done</summary>
+  <summary><img src="img/floppy.png"> Stuff I've done</summary>
 Here are some of the highlights of some of the thing that I have published on the Web, enjoy at your own risk...
 
 * <a href="https://github.com/DynTylluan/owlgames">/owlgames Archive</a>: A collection of vanilla Doom WADs.
@@ -26,7 +26,7 @@ Here are some of the highlights of some of the thing that I have published on th
 </details>
 
 <details>
-  <summary><img width="16" height="16" src="img/floppy2.png"> Repositories I Like</summary>
+  <summary><img src="img/floppy2.png"> Repositories I Like</summary>
 Thank God I have had nothing to do with anything here or else they would be terrible, but anyway, here are some repositories that I think are cool and so should you.
 
 * <a href="https://github.com/akaAgar/png2wad">akaAgar/png2wad</a>: A tool to create Doom maps from PNG files - the future is now!
@@ -40,7 +40,7 @@ More repositories that I have stared can be found <a href="https://github.com/Dy
 </details>
 
 <details>
-  <summary><img width="16" height="16" src="img/floppy3.png"> My GitHub Statistics</summary>
+  <summary><img src="img/floppy3.png"> My GitHub Statistics</summary>
 Showing off my nerd cred (if I had any)
   <table>
   <tr>
