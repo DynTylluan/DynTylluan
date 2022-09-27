@@ -1,6 +1,6 @@
 # Hello, I'm Cass 👋
 <hr>
-<center>[<a href="https://owly.fans">OwlyFans</a>] [<a href="https://neozones.club/~owly/">NeoZones</a>] [<a href="https://digipres.club/@Owly">Mastodon</a>] [<a href="mailto:OwlGal69@protonmail.com">E-Mail</a>]</center>
+<center>[<a href="https://owlyfans.neocities.org">OwlyFans</a>] [<a href="https://digipres.club/@Owly">Mastodon</a>] [<a href="mailto:OwlGal69@protonmail.com">E-Mail</a>]</center>
 <hr>
 
 <img width="157" height="265" align="right" style="float: right; margin: 0 10px 0 0;" alt="Extract from xkcd 624: Branding." src="img/xkcd_624.png">
@@ -22,7 +22,6 @@ Here are some of the highlights of some of the thing that I have published on th
 * <a href="https://github.com/DynTylluan/owlgames">/owlgames Archive</a>: A collection of vanilla Doom WADs.
 * <a href="https://github.com/DynTylluan/OwlBot">OwlBot</a>: A Discord bot that I co-wrote - has a lot of small issues, but I'm proud of it.
 * <a href="https://owlman.neocities.org/">OwlMan on Neocities</a>: A websitet hat I have been working on since 2016, it has been called many thing from terrible due to its source code to the maze of interesting content. Is it truly a terrible place? Well, you have to find-out for yourself.
-* <a href="https://neozones.club">NeoZones Dot Club</a>: NeoZones is a shared webhost that I co-run with other friends of mine... I don't really think there is anything else I can really say about it...
 </details>
 
 <details>
