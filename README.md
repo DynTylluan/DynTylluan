@@ -1,6 +1,6 @@
 # Hello, I'm Cass 👋
 <hr>
-<center>[<a href="https://digipres.club/@Owly">Mastodon</a>] [<a href="mailto:OwlGal69@protonmail.com">E-Mail</a>]</center>
+<center>[<a href="https://owly.fans">OwlyFans</a>] [<a href="https://neozones.club">NeoZones</a>] [<a href="https://digipres.club/@Owly">Mastodon</a>] [<a href="mailto:OwlGal69@protonmail.com">E-Mail</a>]</center>
 <hr>
 
 <img width="157" height="265" align="right" style="float: right; margin: 0 10px 0 0;" alt="Extract from xkcd 624: Branding." src="img/xkcd_624.png">
