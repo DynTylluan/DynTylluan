@@ -11,7 +11,7 @@ I have a strong interest in digital preservation and because of this, a lot of m
 
 I'm a big nerd when it comes to things relating to the world of ICT and outdated tech is my jam, same goes for things like websites from the 1990s.
 
-When I'm not drooling over terribly made websites, I like to also be a nerd for other rubbish from Red Dwarf, bands like Oingo Boingo and The Beatles, plus annoying my friends over on at Discord (add me: **Owly#6604**).
+When I'm not drooling over terribly made websites, I like to also be a nerd for other rubbish from Red Dwarf, bands like Oingo Boingo and The Beatles, plus annoying my friends over on at Discord (add me: **owly.fans**).
 
 I am also currently learning Esperanto as a second language, so that's something, I guess.
 
